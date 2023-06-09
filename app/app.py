@@ -51,7 +51,13 @@ games_list = [
         "id": 6,
         "name": "Crisis Warhead",
         "company": "Rockstar Games",
-    }
+    },
+    {
+        "id": 7,
+        "name": "testA",
+        "compnay": "testA"
+    },
+
 ]
 
 """
